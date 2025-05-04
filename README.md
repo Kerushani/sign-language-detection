@@ -2,6 +2,8 @@
 
 A simple sign language detector built with Python, MediaPipe, OpenCV, and scikit-learn. It uses hand landmarks from MediaPipe to classify ASL letters using a RandomForestClassifier.
 
+https://github.com/user-attachments/assets/e0a92529-932c-4e3c-8893-27996e4d8690
+
 ## How It Works
 
 - MediaPipe detects hand landmarks from webcam input.
